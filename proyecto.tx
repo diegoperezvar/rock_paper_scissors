@@ -1,0 +1,6 @@
+juego de piedra, papel o tijeras.
+
+1. crear pequeña interfaz(usando tkinter) en la cual funcione el programa.(cancelado)
+2. el usuario elige una de las tres opciones  (piedra papel o tijeras)
+3. el programa eligira una opción aleatoria
+4. dependiendo del resultado, saldra uno de tres mensajes : victoria, derrota, empate
